@@ -1,0 +1,3 @@
+https://github.com/LeVperda/Introduction_to_ML
+
+Linear Regression: https://www.kaggle.com/datasets/henryshan/2023-data-scientists-salary
